@@ -1,8 +1,3 @@
 # cryptopair_calc
 
-Features/To Do:
-
-Total USD Value of all positions
-"" + USD
-Crypto value bw spread
-USD value of crypto bw spread
+For both LTC and ETH, calculates USD value attained through first selling through BTC and displays relative to direct USD market.
