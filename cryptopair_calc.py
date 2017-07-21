@@ -56,13 +56,13 @@ def display_current():
     print('E-B-USD: ' + str(ethusd_viabtc))
     print('ETH ARB: ' + str(eth_diff))
     print()
-    print('--------------------------------')
+    print('------------------------')
 
 
 try:
     while True:
         display_current()
-        time.sleep(5)
+        time.sleep(1)
 
 except KeyboardInterrupt:
     print('Exiting program.')
