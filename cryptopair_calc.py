@@ -52,7 +52,7 @@ def display_current():
     print('L-B-USD: ' + str(ltcusd_viabtc))
     print('LTC ARB: ' + str(ltc_diff))
     print()
-    print('ETCUSD:  ' + str(ethusd_ask))
+    print('ETHUSD:  ' + str(ethusd_ask))
     print('E-B-USD: ' + str(ethusd_viabtc))
     print('ETH ARB: ' + str(eth_diff))
     print()
